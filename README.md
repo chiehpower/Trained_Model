@@ -36,3 +36,12 @@ Please follow the official [Website](https://git-lfs.github.com./) to install gi
    ```
    git commit -m "Add model" && git push origin master
    ```
+
+If you want to check the tracking files of lfs.
+```
+git lfs ls-files
+```
+
+# Reference
+
+- [Git LFS Tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
